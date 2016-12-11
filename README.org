@@ -1,0 +1,5 @@
+* Introduction
+
+This is a bunch of simple examples for using Lua/Torch for CUDA programming (i.e. various convolutional and recurrent neural nets).
+
+Again, probably not useful to anyone bar me. 
