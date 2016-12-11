@@ -1,0 +1,1 @@
+train = torch.load('mnist.t7/train
